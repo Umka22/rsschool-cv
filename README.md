@@ -1,1 +1,1 @@
-https://Umka22.github.io/rsschool-cv/cv
+https://Umka22.github.io/rsschool-cv/
