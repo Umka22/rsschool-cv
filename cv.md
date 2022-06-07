@@ -5,7 +5,7 @@
 * **Phone:** +7 911 996-98-52
 * **Email:** mikhailkondratev@gmail.com
 * **GitHub:** Umka22
-* **Telegram:** @MikhailKondratev
+* **Telegram:** [@MikhailKondratev](https://t.me/MikhailKondratev)
 
 ## About Me
 I've always dreamed of becoming a programmer. Now such an opportunity has appeared. *Thank you **RS School** for this opportunity!*
